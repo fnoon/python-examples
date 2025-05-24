@@ -1,0 +1,8 @@
+DateTime==5.5
+pathlib==1.0.1
+psutils==3.3.10
+puremagic==1.29
+pypdf==5.5.0
+pytz==2025.2
+setuptools==80.8.0
+zope.interface==7.2
